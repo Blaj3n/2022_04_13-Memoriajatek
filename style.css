@@ -4,7 +4,6 @@
     display: grid;
     grid-template-areas: "c c c c c"
                          "c c c c c";
-    padding: 10px;
     grid-gap: 20px;
 }
 .container .div{
